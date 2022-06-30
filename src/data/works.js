@@ -1,0 +1,26 @@
+export default [
+    {
+        title:'Portfolio1',
+        imgUrl:'https://images.pexels.com/photos/3194519/pexels-photo-3194519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        tech:['HTML','CSS','rgh'],
+        workUrl:'https://github.com/Etishajain17'
+    },
+    {
+        title:'Portfolio2',
+        imgUrl:'https://images.pexels.com/photos/3194519/pexels-photo-3194519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        tech:['HTML','CSS','feufue'],
+        workUrl:'https://github.com/Etishajain17'
+    },
+    {
+        title:'Portfolio3',
+        imgUrl:'https://images.pexels.com/photos/3194519/pexels-photo-3194519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        tech:['HTML','CSS','fihi'],
+        workUrl:'https://github.com/Etishajain17'
+    },
+    {
+        title:'Portfolio4',
+        imgUrl:'https://images.pexels.com/photos/3194519/pexels-photo-3194519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        tech:['HTML','CSS','fihi'],
+        workUrl:'https://github.com/Etishajain17'
+    }
+]
